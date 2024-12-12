@@ -1,0 +1,14 @@
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\bin\Debug\net9.0\HesapMakinesi.exe
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\bin\Debug\net9.0\HesapMakinesi.deps.json
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\bin\Debug\net9.0\HesapMakinesi.runtimeconfig.json
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\bin\Debug\net9.0\HesapMakinesi.dll
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\bin\Debug\net9.0\HesapMakinesi.pdb
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.AssemblyInfo.cs
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.dll
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\refint\HesapMakinesi.dll
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.pdb
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\HesapMakinesi.genruntimeconfig.cache
+C:\Users\kirdu.KIRDUDU\HesapMakinesi\HesapMakinesi\obj\Debug\net9.0\ref\HesapMakinesi.dll
